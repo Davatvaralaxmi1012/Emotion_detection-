@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Emotion Detection from Facial Expressions
 
 ## Overview
@@ -63,3 +64,6 @@ emotion_detection/
    ```bash
    python src/real_time_detection.py
    ```
+=======
+# Emotion_detection-
+>>>>>>> 3c766f8a7307f10391db75d9c38e7cec1b8feeb8
